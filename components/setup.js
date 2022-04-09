@@ -31,7 +31,7 @@ export default function Setup() {
         scrollEnabled={false}>
         <View style={styles.container}>
           <View style={styles.header}>
-            <Text style={styles.title}>What's your Goal?</Text>
+            <Text style={styles.title}>What's yal?</Text>
           </View>
           <View style={styles.contex}>
             <TouchableOpacity onPress={Loss} style={styles.card}>
